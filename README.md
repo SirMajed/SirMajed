@@ -17,8 +17,7 @@
 [![bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563d7c?style=for-the-badge&labelColor=273347&logo=bootstrap&logoColor=563d7c)](#)
 
 #### Checkout my portfolio
-[![Portfolio](https://img.shields.io/badge/-Portfolio-f52768?style=for-the-badge&labelColor=db1f5a&logo=google-chrome&logoColor=white&link=https://MajedAhmed.me));
-
+[![play Badge](https://img.shields.io/badge/-Portfolio-f52768?style=for-the-badge&labelColor=db1f5a&logo=google-chrome&logoColor=3DDC84&link=https://MajedAhmed.me)](https://MajedAhmed.me)
 #### Social
 [![Reddit Badge](https://img.shields.io/badge/-itMajed-FF4500?style=flat&labelColor=FF4500&logo=reddit&logoColor=white&link=]https://www.reddit.com/user/itsMajed)
 [![Mail Badge](https://img.shields.io/badge/-Majed-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:AlhasenMajed@gmail.com)
