@@ -16,8 +16,8 @@
 [![JS Badge](https://img.shields.io/badge/-javascript-orange?style=for-the-badge&labelColor=273347&logo=javascript&logoColor=orange))](#)
 [![bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563d7c?style=for-the-badge&labelColor=273347&logo=bootstrap&logoColor=563d7c)](#)
 
-#### Personal Apps on Google Play
-[![play Badge](https://img.shields.io/badge/-Google_Play-3DDC84?style=for-the-badge&labelColor=273347&logo=android&logoColor=3DDC84&link=https://play.google.com/store/apps/developer?id=Aymanz)](https://play.google.com/store/apps/developer?id=Aymanz)
+#### Checkout my portfolio
+[![Portfolio](https://img.shields.io/badge/-Portfolio-f52768?style=for-the-badge&labelColor=db1f5a&logo=google-chrome&logoColor=white&link=https://MajedAhmed.me;
 
 #### Social
 [![Reddit Badge](https://img.shields.io/badge/-itMajed-FF4500?style=flat&labelColor=FF4500&logo=reddit&logoColor=white&link=https://www.reddit.com/user/itsMajed;
