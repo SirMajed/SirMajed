@@ -5,7 +5,7 @@
 
 ##### Favourite tools
 [![fire Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&labelColor=273347&logo=firebase&logoColor=FFCA28)](#) &nbsp;
-[![nodejs Badge](https://img.shields.io/badge/-Node.js-68a063?style=for-the-badge&labelColor=303030&logo=nodejs&logoColor=white)](#) &nbsp;
+[![nodejs Badge](https://img.shields.io/badge/-Node.js-68a063?style=for-the-badge&labelColor=303030&logo=node-js&logoColor=white)](#) &nbsp;
 
 [![vs Badge](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&labelColor=273347&logo=visual-studio-code&logoColor=007ACC)](#) &nbsp;
 [![flutter Badge](https://img.shields.io/badge/-Flutter-61DAFB?style=for-the-badge&labelColor=273347&logo=flutter&logoColor=61DAFB)](#) &nbsp;
