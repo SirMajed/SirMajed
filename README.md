@@ -11,9 +11,9 @@
 [![flutter Badge](https://img.shields.io/badge/-Flutter-61DAFB?style=for-the-badge&labelColor=273347&logo=flutter&logoColor=61DAFB)](#) &nbsp;
 [![git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=273347&logo=git&logoColor=F05032)](#) &nbsp;
 [![Dart Badge](https://img.shields.io/badge/-dart-blue?style=for-the-badge&labelColor=273347&logo=dart&logoColor=blue)](#) &nbsp;
-[![HTML5 Badge](https://img.shields.io/badge/-html-orange?style=for-the-badge&labelColor=273347&logo=html5&logoColor=orange))](#)
-[![CSS3 Badge](https://img.shields.io/badge/-CSS3-lightblue?style=for-the-badge&labelColor=273347&logo=css3&logoColor=lightblue))](#)
-[![JS Badge](https://img.shields.io/badge/-javascript-orange?style=for-the-badge&labelColor=273347&logo=javascript&logoColor=orange))](#)
+[![HTML5 Badge](https://img.shields.io/badge/-html-orange?style=for-the-badge&labelColor=273347&logo=html5&logoColor=orange)](#)
+[![CSS3 Badge](https://img.shields.io/badge/-CSS3-lightblue?style=for-the-badge&labelColor=273347&logo=css3&logoColor=lightblue)](#)
+[![JS Badge](https://img.shields.io/badge/-javascript-orange?style=for-the-badge&labelColor=273347&logo=javascript&logoColor=orange)](#)
 [![bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563d7c?style=for-the-badge&labelColor=273347&logo=bootstrap&logoColor=563d7c)](#)
 
 #### Checkout my portfolio
