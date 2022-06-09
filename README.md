@@ -1,4 +1,4 @@
-# Welcome to my repo <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="40px" alt="">
+# Welcome to my repo <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="10px" heigth="15px" alt="">
 
 ### Majed Ahmed, Jeddah, Saudi Arabia
 ### Aspire UI/UX and a little bit of coding and web development 📱
